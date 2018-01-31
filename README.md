@@ -1,24 +1,6 @@
 # README
+Available: https://bom-2-fields.herokuapp.com/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Very simple app that scrapes 3rd level (suburb) locations and displays their aac code. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The app is a very basic POC for interacting with an XML API and displaying its content in the rails view. 
